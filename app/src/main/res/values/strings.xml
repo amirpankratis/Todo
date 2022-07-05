@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="enter_todo">enter a new todo</string>
+    <string name="add_todo_btn_name">add</string>
+    <string name="each_todo_delete_btn">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
